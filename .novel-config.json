@@ -1,0 +1,22 @@
+{
+  "novel": {
+    "name": "重生 78 之道门神医",
+    "type": "urban-rebirth",
+    "targetLength": 1000000,
+    "chapterLength": 4500
+  },
+  "autoWrite": {
+    "enabled": false,
+    "mode": "manual",
+    "schedule": [],
+    "timezone": "Asia/Shanghai"
+  },
+  "publish": {
+    "platform": "local",
+    "autoPublish": false
+  },
+  "quality": {
+    "minScore": 85,
+    "checkBeforePublish": true
+  }
+}
